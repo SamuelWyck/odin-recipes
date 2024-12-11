@@ -50,3 +50,20 @@ body {
 li {
     margin: 10px;
 }
+
+.card {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 5px dashed crimson;
+}
+
+.shadow {
+    box-shadow: 10px 10px 20px gray;
+}
+
+.card .recipe-link {
+    margin: 30px;
+}
